@@ -1,0 +1,99 @@
+/* Headings */
+
+h1 {
+	text-align:center;
+	font-size: 50px ;
+	margin:5px;
+	padding bottom:0px;
+	padding-top: 15px;
+	font-family: Staatliches, Arial, sans-serif;
+	color:;
+}
+
+#subheading {
+	text-align:center;
+	font-size:20px ;
+	padding top: 1px;
+	padding-bottom: 20px;
+	margin :0px;
+	font-family: "Open+Sans+Condensed",Arial,sans-serif;
+}
+
+
+
+/* Header  */
+
+header {
+	background-color: rgba(226,222,222,0.5);
+}
+
+/* img */
+/* profilephoto */
+
+#profilephoto{
+	width:300px;
+	margin: 20px ;
+	border:8px solid rgba(226,222,222,0.5);
+	position:relative;
+
+	
+	
+}
+
+/*Introduction*/
+
+
+h3,p {
+	
+}
+
+body{
+	display: inline-block;
+	width: 85%;
+}
+
+#Hello{
+	border:8px solid rgba(226,222,222,0.5);
+	background-color: rgba(226,222,222,0.5);
+	margin:1px;
+	padding:10px;
+
+}
+
+/*hobbies*/
+ #painting {
+	width:200px;
+	display:inline-block;
+	border-radius: 0px;
+
+}
+
+ #reading{
+	width:200px;
+	height: 150px;
+	display:inline-block;
+	border-radius: 0px;
+
+}
+
+#toastmasters {
+	width:200px;
+	height:150px;
+	display: inline-block;
+}
+
+
+#picsofho{
+	border:8px solid rgba(226,222,222,0.5) ;
+
+}
+
+/*personality*/
+
+
+
+
+
+
+
+
